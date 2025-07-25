@@ -1,0 +1,1 @@
+This project examines the relationship between Body Mass Index (BMI) and stress levels. It investigates whether there is a significant difference in stress levels between individuals categorized as normal weight and those categorized as overweight. This analysis is crucial for understanding how body weight might influence mental well-being.
