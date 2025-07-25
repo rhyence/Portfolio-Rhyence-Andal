@@ -1,1 +1,1 @@
-
+This project investigates whether there is a significant relationship between age and weight in individuals with different hypertension levels (specifically, non-hypertensive (level 1) and hypertensive (level 3)). The goal is to understand if hypertension status affects how age and weight are related. Simple linear regression is applied to normalized age and weight values for each group to determine if age can predict weight.
