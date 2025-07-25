@@ -1,2 +1,2 @@
-# Portfolio-Rhyence-Andal
+# Portfolio by Rhyence Andal & Shanen Furio
 This repository contains the final project for BI120L: Data Science for Health Sciences Laboratory at Mapúa Makati, submitted by Group 10, Section CON29. It serves as the OBE requirement, showcasing the application of data science skills learned throughout the course using RStudio. The project includes five datasets including Nutritional Dietary, Demographic Behavioral, Dataset Even, Time Series Monitoring, and Vital Signs Diagnosis each analyzed to investigate specific health-related questions through statistical methods and data visualization.
