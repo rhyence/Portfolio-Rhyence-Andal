@@ -1,0 +1,1 @@
+This project analyzes time series data over a 42-month period to understand the interplay between a patient's daily steps, Body Mass Index (BMI), and their reported stress levels. A multiple linear regression model was employed to determine if there's a significant interaction effect between daily steps and BMI in predicting stress levels.
